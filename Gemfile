@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'xml-simple'
 gem 'pdfkit'
-gem 'rack', '~>3.1.10'
+gem 'rack', '~>3.1.12'
 gem 'rack-rewrite', '~> 1.2.1'
 gem 'nokogiri', '1.5.10'
 gem 'sinatra', '~>4.1.0'
